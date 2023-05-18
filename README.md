@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ViniciusBaptistaCertacon&color=006bed)
 
-<h3> 👨: &nbsp;About</h3>
+<h3> 👨: &nbsp;About</h3> 
 
 - 🕐 &nbsp; 3 years coding.
 - 🤔 &nbsp; Learning new techs and teaching computers to learn tecnologies.
