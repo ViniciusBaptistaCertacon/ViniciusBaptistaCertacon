@@ -58,11 +58,6 @@
 
 <br/>
 
-<a href="https://github.com/ViniciusBaptistaCertacon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBaptistaCertacon&theme=dracula&show_icons=true&count_private=true" />
-</a>
-
-<br/>
 
 <h3> :earth_americas: &nbsp;Find me: </h3> 
 
