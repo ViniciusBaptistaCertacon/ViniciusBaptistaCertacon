@@ -62,3 +62,5 @@
 
 [![Linkedin: Vinícius Miranda](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciusmirandadev)](https://www.linkedin.com/in/viniciusmirandadev)
 [![Medium: Vinícius Miranda](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@vmbdeveloper)](https://medium.com/@vmbdeveloper)
+
+![snake animation](https://github.com/ViniciusBaptistaCertacon/ViniciusBaptistaCertacon/blob/output/github-contribution-grid-snake2.svg)
